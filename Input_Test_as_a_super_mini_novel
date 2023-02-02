@@ -1,0 +1,5 @@
+name = str(input("I'm a Handsome God\nSay your name , mortal...\n"))
+print("I see... A mediocre name  for a mediocre creature...\nLook this name , "+name +" ,hahahaha")
+print("Don't be mad , creature ...\n OK,  OK, I will stop it\n")
+age = int(input("Hmm... and How many winters have you lived in this inferior world ?\n "))
+print("I see , a young one ...\n You don't have chance with me "+name+", hahah\n So ... I have to do some Heavenly-big-ultra-diffcult-jobs to do ... \n Prize me , baby")
