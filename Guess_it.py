@@ -1,4 +1,4 @@
-secret_word = "cute".lower()
+secret_word = "cute"
 guess = ""
 guess_count     = 0
 guess_limit     = 2
