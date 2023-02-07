@@ -10,4 +10,7 @@ music_list = [
     "The perfect boy - The Cure"
 ]
 print("Here are some good music that I'm listening right now:\n")
-print(music_list)
+
+for song in music_list:
+    print(song)
+
